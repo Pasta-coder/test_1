@@ -13,7 +13,7 @@ const Footer = () => {
                 <GraduationCap className="h-6 w-6 text-accent-foreground" />
               </div>
               <div>
-                <h3 className="text-xl font-bold">Achiever's Academy</h3>
+                <h3 className="text-xl font-bold">SS Classes</h3>
                 <p className="text-sm opacity-90">Premier JEE Coaching</p>
               </div>
             </div>
@@ -61,18 +61,18 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 mt-0.5 flex-shrink-0" />
                 <div className="text-sm opacity-90">
-                  123, Education Hub<br />
-                  Kota, Rajasthan - 324005<br />
+                  ramnagar lane no. 2<br />
+                  roorkee , uttarakhand - 247667<br />
                   India
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5" />
-                <div className="text-sm opacity-90">+91-98765-43210</div>
+                <div className="text-sm opacity-90">+91-84100-02330</div>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5" />
-                <div className="text-sm opacity-90">info@achieversacademy.com</div>
+                <div className="text-sm opacity-90">hundredrabharora@gmail.com</div>
               </div>
             </div>
           </div>
@@ -80,7 +80,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-light/20 mt-8 pt-8 text-center">
           <p className="text-sm opacity-90">
-            © 2024 Achiever's Academy. All rights reserved. | 
+            © 2025 SS Classes. All rights reserved. | 
             <span className="hover:text-accent cursor-pointer ml-1">Privacy Policy</span> | 
             <span className="hover:text-accent cursor-pointer ml-1">Terms of Service</span>
           </p>
