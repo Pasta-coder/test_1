@@ -26,15 +26,15 @@ const Header = () => {
           <div className="flex items-center space-x-4">
             <div className="flex items-center space-x-1">
               <Phone className="h-4 w-4" />
-              <span>+91-98765-43210</span>
+              <span>+91-84100-02330</span>
             </div>
             <div className="flex items-center space-x-1">
               <Mail className="h-4 w-4" />
-              <span>info@achieversacademy.com</span>
+              <span>hundredrabharora@gmail.com</span>
             </div>
           </div>
           <div className="hidden md:block">
-            <span>Admission Open for Session 2024-25</span>
+            <span>Admission Open for Session 2025-26</span>
           </div>
         </div>
       </div>
@@ -50,7 +50,7 @@ const Header = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-gradient-primary">
-                  Achiever's Academy
+                  SS Classes
                 </h1>
                 <p className="text-sm text-muted-foreground">
                   Premier JEE Coaching Institute
