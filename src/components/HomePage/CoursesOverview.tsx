@@ -9,7 +9,7 @@ const CoursesOverview = () => {
       subtitle: "Class 8-10",
       description: "Build strong fundamentals in Physics, Chemistry & Mathematics for competitive exam success.",
       duration: "2-3 Years",
-      batchSize: "25 Students",
+      batchSize: "100 Students",
       highlights: ["Concept Building", "Regular Tests", "Doubt Sessions", "Study Material"],
       color: "border-primary bg-primary/5"
     },
@@ -18,7 +18,7 @@ const CoursesOverview = () => {
       subtitle: "Class 11-12",
       description: "Integrated school + coaching curriculum designed specifically for JEE preparation.",
       duration: "2 Years",
-      batchSize: "30 Students",
+      batchSize: "100 Students",
       highlights: ["JEE Syllabus", "Board Prep", "Mock Tests", "Performance Analysis"],
       color: "border-secondary bg-secondary/5"
     },
@@ -26,8 +26,8 @@ const CoursesOverview = () => {
       title: "JEE Mains",
       subtitle: "Crash Course",
       description: "Intensive preparation for JEE Mains with focused practice and problem-solving techniques.",
-      duration: "6 Months",
-      batchSize: "35 Students",
+      duration: "4 Months",
+      batchSize: "100 Students",
       highlights: ["Intensive Practice", "Previous Papers", "Time Management", "Strategy Sessions"],
       color: "border-accent bg-accent/5"
     },
@@ -35,8 +35,8 @@ const CoursesOverview = () => {
       title: "JEE Advanced",
       subtitle: "Elite Program",
       description: "Advanced problem-solving and deep conceptual understanding for JEE Advanced success.",
-      duration: "1 Year",
-      batchSize: "20 Students",
+      duration: "2 Year",
+      batchSize: "100 Students",
       highlights: ["Advanced Problems", "IIT Faculty", "Research Methods", "Elite Mentoring"],
       color: "border-orange bg-orange/5"
     }

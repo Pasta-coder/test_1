@@ -13,7 +13,7 @@ const HeroSection = () => {
             <div className="inline-flex items-center bg-accent/10 backdrop-blur-sm border border-accent/20 rounded-full px-4 py-2 mb-6">
               <Star className="h-4 w-4 text-accent mr-2" />
               <span className="text-sm font-medium text-primary-foreground">
-                #1 JEE Coaching Institute in Kota
+                #1 JEE Coaching Institute in Roorkee
               </span>
             </div>
             
@@ -23,7 +23,7 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-xl text-primary-foreground/90 mb-8 leading-relaxed">
-              Your journey to IIT starts here. Join India's most trusted name for JEE Mains & Advanced preparation with proven results and expert faculty.
+              Your journey to IIT starts here. Join the most trusted name for JEE Mains & Advanced preparation with proven results and expert faculty.
             </p>
 
             {/* Stats */}
@@ -33,7 +33,7 @@ const HeroSection = () => {
                 <div className="text-sm text-primary-foreground/80">Years Experience</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl lg:text-3xl font-bold text-accent">5000+</div>
+                <div className="text-2xl lg:text-3xl font-bold text-accent">100+</div>
                 <div className="text-sm text-primary-foreground/80">IIT Selections</div>
               </div>
               <div className="text-center">
@@ -72,8 +72,8 @@ const HeroSection = () => {
                   <Trophy className="h-5 w-5 text-primary-foreground" />
                 </div>
                 <div>
-                  <div className="font-semibold text-sm">AIR 1</div>
-                  <div className="text-xs text-muted-foreground">JEE Advanced 2024</div>
+                  <div className="font-semibold text-sm">99.87</div>
+                  <div className="text-xs text-muted-foreground">JEE Mains 2024</div>
                 </div>
               </div>
             </div>
@@ -84,8 +84,8 @@ const HeroSection = () => {
                   <Users className="h-5 w-5 text-secondary-foreground" />
                 </div>
                 <div>
-                  <div className="font-semibold text-sm">100+ Toppers</div>
-                  <div className="text-xs text-muted-foreground">In Top 100 AIR</div>
+                  <div className="font-semibold text-sm">100+ Students</div>
+                  <div className="text-xs text-muted-foreground">In IITS/NITS/BITS</div>
                 </div>
               </div>
             </div>

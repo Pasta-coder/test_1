@@ -21,8 +21,6 @@ const Footer = () => {
               Shaping future engineers for over a decade. Your journey to IIT starts here with India's most trusted JEE coaching institute.
             </p>
             <div className="flex space-x-4">
-              <Facebook className="h-5 w-5 hover:text-accent cursor-pointer transition-colors" />
-              <Twitter className="h-5 w-5 hover:text-accent cursor-pointer transition-colors" />
               <Instagram className="h-5 w-5 hover:text-accent cursor-pointer transition-colors" />
               <Youtube className="h-5 w-5 hover:text-accent cursor-pointer transition-colors" />
             </div>

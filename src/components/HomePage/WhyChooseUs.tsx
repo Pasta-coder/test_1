@@ -45,7 +45,7 @@ const WhyChooseUs = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold text-gradient-primary mb-6">
-            Why Choose Achiever's Academy?
+            Why Choose SS Classes?
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             We don't just teach, we transform dreams into reality. Here's what makes us the preferred choice for JEE aspirants across India.
@@ -79,7 +79,7 @@ const WhyChooseUs = () => {
               <div className="text-sm lg:text-base text-muted-foreground">Years of Excellence</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl lg:text-5xl font-bold text-gradient-primary mb-2">5000+</div>
+              <div className="text-4xl lg:text-5xl font-bold text-gradient-primary mb-2">100+</div>
               <div className="text-sm lg:text-base text-muted-foreground">IIT Selections</div>
             </div>
             <div className="text-center">
@@ -87,7 +87,7 @@ const WhyChooseUs = () => {
               <div className="text-sm lg:text-base text-muted-foreground">Success Rate</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl lg:text-5xl font-bold text-gradient-primary mb-2">50+</div>
+              <div className="text-4xl lg:text-5xl font-bold text-gradient-primary mb-2">5+</div>
               <div className="text-sm lg:text-base text-muted-foreground">Expert Faculty</div>
             </div>
           </div>
